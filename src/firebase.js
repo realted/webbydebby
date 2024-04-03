@@ -21,4 +21,3 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 export const firestore = getFirestore(app);
 
-// Commit changes

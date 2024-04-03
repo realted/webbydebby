@@ -1,0 +1,5 @@
+var config = {
+  
+};
+
+export { config };
